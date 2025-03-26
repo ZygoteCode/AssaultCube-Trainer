@@ -34,13 +34,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Fasm.NET">
-      <HintPath>..\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\MemoryHacks\bin\Release\Fasm.NET.dll</HintPath>
+      <HintPath>..\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\MemoryHacks\bin\Release\Fasm.NET.dll</HintPath>
     </Reference>
     <Reference Include="Guna.UI2">
       <HintPath>..\Computer\Developing\Librerie grafiche (.NET)\Libraries\Guna.UI\Guna.UI2.dll</HintPath>
     </Reference>
     <Reference Include="MemoryHacks">
-      <HintPath>..\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\MemoryHacks\bin\Release\MemoryHacks.dll</HintPath>
+      <HintPath>..\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\MemoryHacks\bin\Release\MemoryHacks.dll</HintPath>
     </Reference>
     <Reference Include="MetroSuite 2.0">
       <HintPath>..\Computer\Developing\Librerie grafiche (.NET)\Libraries\MetroSuite\MetroSuite 2.0.dll</HintPath>
