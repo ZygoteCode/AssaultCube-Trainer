@@ -1,0 +1,29 @@
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\bin\Release\AssaultCube Trainer.exe.config
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\bin\Release\AssaultCube Trainer.exe
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\bin\Release\AssaultCube Trainer.pdb
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\bin\Release\Fasm.NET.dll
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\bin\Release\MemoryHacks.dll
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\bin\Release\Fasm.NET.xml
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\bin\Release\MemoryHacks.pdb
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\obj\Release\AssaultCube Trainer.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\obj\Release\AssaultCube Trainer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\obj\Release\MainForm.resources
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\obj\Release\AssaultCube Trainer.csproj.GenerateResource.cache
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\obj\Release\AssaultCube Trainer.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\obj\Release\AssaultCube Trainer.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\obj\Release\AssaultCube Trainer.exe
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\obj\Release\AssaultCube Trainer.pdb
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\bin\Release\Guna.UI2.dll
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\bin\Release\MetroSuite 2.0.dll
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\bin\Release\Siticone.Desktop.UI.dll
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\Project\bin\Release\AssaultCube Trainer.exe.config
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\Project\bin\Release\AssaultCube Trainer.exe
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\Project\bin\Release\AssaultCube Trainer.pdb
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\Project\obj\Release\AssaultCube Trainer.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\Project\obj\Release\AssaultCube Trainer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\Project\obj\Release\MainForm.resources
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\Project\obj\Release\AssaultCube Trainer.csproj.GenerateResource.cache
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\Project\obj\Release\AssaultCube Trainer.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\Project\obj\Release\AssaultCube Trainer.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\Project\obj\Release\AssaultCube Trainer.exe
+C:\Users\ZygoteCode\Desktop\AssaultCube Trainer\Project\obj\Release\AssaultCube Trainer.pdb
